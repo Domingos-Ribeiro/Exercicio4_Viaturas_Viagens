@@ -12,5 +12,6 @@
 
 
         'NÃO FUNCIONA
+        'D para double não é válido
     End Sub
 End Class
