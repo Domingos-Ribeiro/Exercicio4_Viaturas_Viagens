@@ -13,5 +13,6 @@
 
         'NÃO FUNCIONA
         'D para double não é válido
+        'Vou alterar a BD para tentar novamente
     End Sub
 End Class
