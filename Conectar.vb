@@ -7,7 +7,7 @@ Public Class Conectar
         "user id= sa;" +
         "password=123.Abc.@;"
 
-    'Para aceder a outra instancia é só trocar o caminhho.
+    'Para aceder a outra instancia é só trocar o nome da Base de Dados
     'Se for um utlizador diferente é só alterar o user id e respetiva password
 
     Public SSQL As String = "select * from Registos;"
